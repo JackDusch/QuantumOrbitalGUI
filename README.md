@@ -3,3 +3,8 @@ Python Quantum visualization tool, for testing purposes and optimization/verific
 The package consists of several subdirectories, but is executed from the "src" directory using the command "python main.py"
 
 The subdirectories of src include gui, simulation, transformations, and visualization.
+
+Quickstart:
+pip install -r requirements.txt
+cd src
+python3 main.py

@@ -5,6 +5,7 @@ The package consists of several subdirectories, but is executed from the "src" d
 The subdirectories of src include gui, simulation, transformations, and visualization.
 
 Quickstart:
+
 pip install -r requirements.txt
 
 cd src

@@ -6,5 +6,7 @@ The subdirectories of src include gui, simulation, transformations, and visualiz
 
 Quickstart:
 pip install -r requirements.txt
+
 cd src
+
 python3 main.py

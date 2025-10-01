@@ -1,0 +1,8 @@
+PyQt6>=6.5,<6.7
+pyqtgraph>=0.13.4,<0.14
+PyOpenGL>=3.1.6
+PyOpenGL-accelerate>=3.1.6
+numpy>=1.23
+scipy>=1.10
+numba>=0.58     # only if you keep @njit paths
+qutip>=4.7      # optional; guard import if not required
